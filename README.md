@@ -1,10 +1,4 @@
-Hi 👋 My name is Cheng
-======================
-
-Penultimate Computing Student
------------------------------
-
-Interested in backend development and artificial intelligence
+Penultimate Computing Student. Interested in backend development and artificial intelligence
 
 ### Languages I use 
 
