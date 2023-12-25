@@ -1,4 +1,4 @@
-college Student. Interested in backend development and artificial intelligence
+college Student interested in backend development and artificial intelligence
 
 
 
