@@ -1,4 +1,4 @@
-Penultimate Computing Student. Interested in backend development and artificial intelligence
+college Student. Interested in backend development and artificial intelligence
 
 
 
